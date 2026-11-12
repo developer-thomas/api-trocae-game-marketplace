@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+.vs/
+*.db
+
+# Segredos locais nunca versionados
+appsettings.Local.json
+.env
