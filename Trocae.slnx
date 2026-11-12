@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Trocae.Api/Trocae.Api.csproj" />
+    <Project Path="src/Trocae.Domain/Trocae.Domain.csproj" />
+    <Project Path="src/Trocae.Infrastructure/Trocae.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Trocae.Domain.Tests/Trocae.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
